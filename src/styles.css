@@ -1,0 +1,11 @@
+/* You can add global styles to this file, and also import other style files */
+/* google font */
+@import url('https://fonts.googleapis.com/css2?family=Barlow+Semi+Condensed:ital,wght@1,300&family=Lora&family=Overpass:wght@100&family=PT+Sans&family=Roboto:wght@300&family=Solway:wght@300&display=swap');
+body{
+    font-family: 'Solway', serif;
+}
+
+:root {
+    --animate-duration: 3s;
+    --animate-delay: 2s;
+  }
